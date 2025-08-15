@@ -194,5 +194,5 @@ This project is actively maintained. Check the [Releases](https://github.com/Md-
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/Md-Guffran)**
+**Made with ❤️ by [Guffran](https://github.com/Md-Guffran)**
 >>>>>>> f4a0c89 (Initial commit: Gemini AI Clone with full documentation)
